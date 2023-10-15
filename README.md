@@ -1,5 +1,5 @@
-# :sunglasses: Hi, I am Nur Haque
-
+# :coffee: Hi, I am Nur Haque
+I'm a full-stack developer and an instructor contributing to open-source projects. The projects I create are designed to solve a small-scale problem that I face every day or help a friend achieve a dream project. All projects I create get showcased in my portfolio with a video breaking how this project came to be. The planning for each project starts with a problem, the next planning, designing, and then implementing. With the feedback of many of my peers, and potential users the projects grew into something with worth using. I strive to help many individuals with whatever their working on weather that's designing a webpage, building the next hit game, or just weebish. :dragon-ball-z: 
 <!--
 **nh124/nh124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
