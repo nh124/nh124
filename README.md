@@ -7,6 +7,7 @@ I'm a full-stack developer and an instructor contributing to open-source project
 [![Follow me on LinkedIn](https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://heroku.com/)
 
 
+[![Powered by Heroku](https://img.shields.io/badge/-Powered_by_Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
 <!--
 **nh124/nh124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
