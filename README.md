@@ -7,14 +7,12 @@ I'm a full-stack developer and an instructor contributing to open-source project
 
 <p align="left">
       <a href="https://www.linkedin.com/in/nur-haque/">
-         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
+         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-00B22D?style=for-the-badge&logo=fiverr&logoColor=white"/></a> 
+
+<p align="left">
+      <a href="https://www.linkedin.com/in/nur-haque/">
+         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Check_out_my_work_of_Fiverr-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
          
-
-
-[![Follow me on LinkedIn](https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white)](https://heroku.com/)
-
-
-[![Powered by Heroku](https://img.shields.io/badge/-Powered_by_Heroku-6567a5?style=for-the-badge&logo=heroku&logoColor=white)](https://heroku.com/)
 <!--
 **nh124/nh124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
