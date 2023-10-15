@@ -16,19 +16,6 @@
 
 </details>
 
-
-
-
-
-  <p align="left">
-     <a href="https://www.linkedin.com/in/nur-haque/">
-         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
-      <a href="https://www.fiverr.com/infinity3476/create-a-five-page-portfolio-site-in-one-week">
-         <img alt="fiverr" title="fiverr" src="https://img.shields.io/badge/-Check_out_my_work_of_Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white"/></a> 
-      <a href="https://www.fiverr.com/infinity3476/create-a-five-page-portfolio-site-in-one-week">
-         <img alt="opensource" title="opensource" src="https://custom-icon-badges.demolab.com/badge/-Check_out_my_opensource_contributions-palegreen?style=for-the-badge&logoColor=black&logo=issue-opened"/></a> 
-   </p>
-
 ---
 
 ### 🧰 Languages and Tools
