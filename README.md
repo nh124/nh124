@@ -51,41 +51,12 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">OCDetour</h3>
-        <br />
         <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
             <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
         </a>
         <br />
-        <p align="center">
-          
-  <a href="https://github.com/jsnicholas/OCDetour" target="_blank">
-    Repository
-  </a> | 
-  <a href="https://ocdetour-4111fd1eff32.herokuapp.com/" target="_blank">
-    Live Demo
-  </a>
-      </p>
+         <h3 align="center">OCDetour</h3>
         <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
 </td>
-
- <td width="50%" valign="top">
-      <h3 align="center">Typescript Gym App</h3>
-        <br />
-      <a target="_blank" href="https://gym-app-typescript-sage.vercel.app/">
-            <img src="https://github.com/jsnicholas/jsnicholas-me/blob/main/src/assets/images/gym_desktop.png?raw=true" width="100%"  alt="Gym App"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/jsnicholas/gym-app-typescript" target="_blank">
-    Repository
-  </a> | 
-  <a href="https://gym-app-typescript-sage.vercel.app/" target="_blank">
-    Live Demo
-  </a>
-      </p>
-        <p><strong>Typescript, React, Vite, TailwindCSS</strong> - This React app was built as an example template page for an imagined gym. The client wanted to refresh their web presence with a new look that was elegant and easy to use on both mobile and desktop.</p>
-    </td>
 </table>
 
