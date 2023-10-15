@@ -68,5 +68,24 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
       </p>
         <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
     </td>
+
+     <td width="50%" valign="top">
+      <h3 align="center">OCDetour</h3>
+        <br />
+        <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jsnicholas/OCDetour" target="_blank">
+    Repository
+  </a> | 
+  <a href="https://ocdetour-4111fd1eff32.herokuapp.com/" target="_blank">
+    Live Demo
+  </a>
+      </p>
+        <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+    </td>
 </table>
 
