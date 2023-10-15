@@ -6,8 +6,8 @@ I'm a full-stack developer and an instructor contributing to open-source project
 
 
 <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
+      <a href="https://www.linkedin.com/in/nur-haque/">
+         <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
          
 
 
