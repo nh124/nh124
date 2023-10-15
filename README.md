@@ -67,7 +67,6 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
            <a target="_blank" href="https://ttoth1.github.io/time_museum_clone/">
                <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/UnclesTimeMuseum.png" width="100%" alt="OCDetour App"/>
             <h3 align="center">Uncles Time Museum</h3>
-
            </a>    
    </td>
    <td width="50%" valign="top">
@@ -75,7 +74,6 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
                <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/Music.png" width="100%" alt="OCDetour App"/>
               <br />
             <h3 align="center">Music</h3>
-
            </a>    
    </td>
 </table>
