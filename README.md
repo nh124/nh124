@@ -9,9 +9,10 @@ I'm a full-stack developer and an instructor contributing to open-source project
       <a href="https://www.fiverr.com/infinity3476/create-a-five-page-portfolio-site-in-one-week">
          <img alt="fiverr" title="fiverr" src="https://img.shields.io/badge/-Check_out_my_work_of_Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white"/></a> 
 
-<p align="left">
       <a href="https://www.linkedin.com/in/nur-haque/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a> 
+   </p>
+      
          
 <!--
 **nh124/nh124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
