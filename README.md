@@ -2,7 +2,7 @@
    <h1 align="center"> :coffee: Hi, I am Nur Haque </h1>
    <p align="center">
  <strong> :computer: Full-Stack Developer</strong> <br /><br />
-I love :runner: | I love :ringed_planet: | I love to :man_cook:
+I love to :runner: | I love :ringed_planet: | I love to :man_cook:
 </p>
 
 **`Tech Tamer Senpi (Developer/Designer/Collaborator)`**
