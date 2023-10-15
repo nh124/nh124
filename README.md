@@ -3,7 +3,7 @@
    <p align="center">
  <strong> :computer: Full-Stack Developer</strong> <br /><br />
    I love to <img src="https://github.com/nh124/nh124/assets/61254430/975295e0-0361-4569-a79e-a4796429f0f4" width="20" height="30"/> 
-      | I love gazing at <img src="https://github.com/nh124/nh124/assets/61254430/78329099-61de-4dbd-8760-fc5b0f0791e9" width="20" height="30"/>  | I love to <img src="https://github.com/nh124/nh124/assets/61254430/debe398f-aab0-43b1-affc-a5d3d98c7533"  width="20" height="30"/>
+      | I love gazing at <img src="https://github.com/nh124/nh124/assets/61254430/78329099-61de-4dbd-8760-fc5b0f0791e9" width="30" height="30"/>  | I love to <img src="https://github.com/nh124/nh124/assets/61254430/debe398f-aab0-43b1-affc-a5d3d98c7533"  width="30" height="30"/>
 </p>
 
 
