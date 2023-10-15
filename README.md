@@ -51,36 +51,31 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
   
   <tr>
     <td width="50%" valign="top">
-        <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
-            <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
-           <br />
-         <h3 align="center">OCDetour</h3>
-        <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+        <a target="_blank" href="http://universityconnect.s3-website-us-east-1.amazonaws.com/">
+            <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/CampusProject.jpg" width="100%" alt="OCDetour App"/>
+         <h3 align="center">Campus Connect</h3>
         </a>    
 </td>
 <td width="50%" valign="top">
-        <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
+        <a target="_blank" href="https://nh124.github.io/PacMan/">
             <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/PacMan.png" width="100%" alt="Pac-Man"/>
-           <br />
-         <h3 align="center">OCDetour</h3>
-        <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+         <h3 align="center">Pac-Man</h3>
         </a>    
 <tr>
    </td>
    <td width="50%" valign="top">
-           <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
-               <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
-              <br />
-            <h3 align="center">OCDetour</h3>
-           <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+           <a target="_blank" href="https://ttoth1.github.io/time_museum_clone/">
+               <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/UnclesTimeMuseum.png" width="100%" alt="OCDetour App"/>
+            <h3 align="center">Uncles Time Museum</h3>
+
            </a>    
    </td>
    <td width="50%" valign="top">
-           <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
-               <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
+           <a target="_blank" href="">
+               <img src="https://raw.githubusercontent.com/nh124/Portfolio/master/src/Assets/Music.png" width="100%" alt="OCDetour App"/>
               <br />
-            <h3 align="center">OCDetour</h3>
-           <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+            <h3 align="center">Music</h3>
+
            </a>    
    </td>
 </table>
