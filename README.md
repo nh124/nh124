@@ -1,7 +1,7 @@
 
    <h1 align="center"> :coffee: Hi, I am Nur Haque </h1>
 
-<p align="center">`Tech Tamer Senpi (Developer/Designer/Collaborator)`</p>
+**`Tech Tamer Senpi (Developer/Designer/Collaborator)`**
 
 <details>
    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
