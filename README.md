@@ -1,5 +1,5 @@
 
-   <h1 align=cneter> :coffee: Hi, I am Nur Haque </h1>
+   <h1 align="center"> :coffee: Hi, I am Nur Haque </h1>
 
 
 **`Tech Tamer Senpi (Developer/Designer/Collaborator)`**
