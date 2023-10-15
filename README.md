@@ -53,10 +53,11 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
     <td width="50%" valign="top">
         <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
             <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
-        </a>
-        <br />
+           <br />
          <h3 align="center">OCDetour</h3>
         <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+        </a>
+        
 </td>
 </table>
 
