@@ -85,5 +85,5 @@
 
 ### 📊 Stats
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=nh124&show_icons=true&theme=radical" width="47%"/> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true" width="47%"/> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nh124&layout=compact" width="47%"/> 
 
