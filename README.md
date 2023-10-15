@@ -13,7 +13,6 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
   <br />
    <br />
    
-![dragon-ball-z](https://github.com/nh124/nh124/assets/61254430/08227b60-df38-44bf-a611-dc6d9e22722c)
 
 <p alighn="left">
    <a href="https://www.linkedin.com/in/nur-haque/">
