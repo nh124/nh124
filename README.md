@@ -44,3 +44,29 @@ I love to :runner: | I love :ringed_planet: | I love to :man_cook:
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+### coding
+
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">OCDetour</h3>
+        <br />
+        <a target="_blank" href="https://ocdetour-4111fd1eff32.herokuapp.com/">
+            <img src="https://user-images.githubusercontent.com/114363630/253651510-573683f6-d75a-43f3-a42c-be180f9f715f.png" width="100%" alt="OCDetour App"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/jsnicholas/OCDetour" target="_blank">
+    Repository
+  </a> | 
+  <a href="https://ocdetour-4111fd1eff32.herokuapp.com/" target="_blank">
+    Live Demo
+  </a>
+      </p>
+        <p><strong>MongoDB, Express, React, Node, Tailwind</strong> - OCDetour is an app to help delay compulsions for people with OCD.</p>
+    </td>
+</table>
+
