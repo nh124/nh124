@@ -1,5 +1,6 @@
   <p align="center">
-    # :coffee: Hi, I am Nur Haque
+    :coffee: 
+    <h1>Hi, I am Nur Haque</h1>
    </p>
 
 
