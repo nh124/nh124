@@ -19,7 +19,8 @@
          <img alt="fiverr" title="fiverr" src="https://img.shields.io/badge/-Check_out_my_work_of_Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white"/></a>  
       <a href="https://nh124.github.io/Portfolio/">
          <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-040d1b?style=for-the-badge&logo=person&logoColor=white"/></a> 
-   <a href="https://medium.com/@harmoniacodes">Medium</a>
+   <a href="nur.haque99@gmail.com">
+         <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-Email_Me-red?style=for-the-badge&logo=mail&logoColor=white"/></a> 
 </>
 
 ---
