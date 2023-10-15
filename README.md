@@ -1,5 +1,5 @@
 ![https://media.licdn.com/dms/image/D5616AQFCrHI6f_uDAg/profile-displaybackgroundimage-shrink_350_1400/0/1696388070543?e=1703116800&v=beta&t=iIiXKrUbwIM3s4cDm0xI0AyDjx8HKqiYCGC_m1Wjxac](https://media.licdn.com/dms/image/D5616AQFCrHI6f_uDAg/profile-displaybackgroundimage-shrink_350_1400/0/1696388070543?e=1703116800&v=beta&t=iIiXKrUbwIM3s4cDm0xI0AyDjx8HKqiYCGC_m1Wjxac)
-   <h1 align="center"> :coffee: Hi, I am Nur Haque </h1>
+   <h1 align="center"> :coffee: Hi, I am Nur </h1>
    <p align="center">
  <strong> :computer: Full-Stack Developer</strong> <br /><br />
    I love to <img src="https://github.com/nh124/nh124/assets/61254430/975295e0-0361-4569-a79e-a4796429f0f4" width="20" height="30"/> 
@@ -18,13 +18,13 @@
    
 
 <p alighn="left">
-   <a href="https://www.linkedin.com/in/nur-haque/">
+   <a target="_blank" href="https://www.linkedin.com/in/nur-haque/">
          <img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Follow_me_on_LinkedIn-0077b5?style=for-the-badge&logo=linkedIn&logoColor=white"/></a>  
-      <a href="https://www.fiverr.com/infinity3476/create-a-five-page-portfolio-site-in-one-week">
+      <a target="_blank" href="https://www.fiverr.com/infinity3476/create-a-five-page-portfolio-site-in-one-week">
          <img alt="fiverr" title="fiverr" src="https://img.shields.io/badge/-Check_out_my_work_of_Fiverr-00B22D?style=for-the-badge&logo=fiverr&logoColor=white"/></a>  
-      <a href="https://nh124.github.io/Portfolio/">
+      <a target="_blank" href="https://nh124.github.io/Portfolio/">
          <img alt="Portfolio" title="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-040d1b?style=for-the-badge&logo=person&logoColor=white"/></a> 
-   <a href="mailto:nur.haque99@gmail.com">
+   <a target="_blank" href="mailto:nur.haque99@gmail.com">
          <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-Email_Me-red?style=for-the-badge&logo=mail&logoColor=white"/></a> 
 </>
 
