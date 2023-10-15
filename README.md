@@ -1,4 +1,7 @@
-# :coffee: Hi, I am Nur Haque
+  <p align="center">
+    # :coffee: Hi, I am Nur Haque
+   </p>
+
 
 **`Tech Tamer Senpi (Developer/Designer/Collaborator)`**
 <details>
