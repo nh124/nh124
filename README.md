@@ -1,7 +1,8 @@
 ![https://media.licdn.com/dms/image/D5616AQFCrHI6f_uDAg/profile-displaybackgroundimage-shrink_350_1400/0/1696388070543?e=1703116800&v=beta&t=iIiXKrUbwIM3s4cDm0xI0AyDjx8HKqiYCGC_m1Wjxac](https://media.licdn.com/dms/image/D5616AQFCrHI6f_uDAg/profile-displaybackgroundimage-shrink_350_1400/0/1696388070543?e=1703116800&v=beta&t=iIiXKrUbwIM3s4cDm0xI0AyDjx8HKqiYCGC_m1Wjxac)
    <h1 align="center"> :coffee: Hi, I am Nur Haque </h1>
    <p align="center">
- <strong> Full-Stack Developer</strong> <br /><br />
+ <strong> :computer: Full-Stack Developer</strong> <br /><br />
+I love :runner: | I love :ringed_planet: | I love to :man_cook:
 </p>
 
 **`Tech Tamer Senpi (Developer/Designer/Collaborator)`**
