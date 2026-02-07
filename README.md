@@ -11,8 +11,7 @@
 
    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   I'm a full-stack developer and an instructor contributing to open-source projects. The projects I create are designed to solve a small-scale problem that I face day to day or help a friend achieve a dream project. All projects I create get showcased in my portfolio with a video breaking down how this project came to be. The planning for each project starts with a problem, the next planning, designing, and then implementing. With the feedback from many of my peers and potential users the projects grow into something worth using.
-  <br />
-wee  
+  <br />  
    <br />
    
 
