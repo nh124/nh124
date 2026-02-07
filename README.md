@@ -10,9 +10,9 @@
 
 
    <summary><h3>👨‍💻 My Coding Journey</h3></summary>
-  I'm a full-stack developer and an instructor contributing to open-source projects. The projects I create are designed to solve a small-scale problem that I face day to day or help a friend achieve a dream project. All projects I create get showcased in my portfolio with a video breaking down how this project came to be. The planning for each project starts with a problem, the next planning, designing, and then implementing. With the feedback from many of my peers and potential users the projects grow into something worth using. I strive to help many individuals with whatever they are working on whether that's designing a webpage, building the next hit game, or just something weebish <img src="https://github.com/nh124/nh124/assets/61254430/08227b60-df38-44bf-a611-dc6d9e22722c" width="20" height="20"/>.
+  I'm a full-stack developer and an instructor contributing to open-source projects. The projects I create are designed to solve a small-scale problem that I face day to day or help a friend achieve a dream project. All projects I create get showcased in my portfolio with a video breaking down how this project came to be. The planning for each project starts with a problem, the next planning, designing, and then implementing. With the feedback from many of my peers and potential users the projects grow into something worth using.
   <br />
-  
+wee  
    <br />
    
 
